@@ -1,0 +1,10 @@
+C:\Users\Testing\source\repos\Preset Backup Utility\Preset Backup Utility\bin\Debug\Preset Backup Utility.exe.config
+C:\Users\Testing\source\repos\Preset Backup Utility\Preset Backup Utility\bin\Debug\Preset Backup Utility.exe
+C:\Users\Testing\source\repos\Preset Backup Utility\Preset Backup Utility\bin\Debug\Preset Backup Utility.pdb
+C:\Users\Testing\source\repos\Preset Backup Utility\Preset Backup Utility\obj\Debug\Preset Backup Utility.csprojAssemblyReference.cache
+C:\Users\Testing\source\repos\Preset Backup Utility\Preset Backup Utility\obj\Debug\Preset_Backup_Utility.form_main.resources
+C:\Users\Testing\source\repos\Preset Backup Utility\Preset Backup Utility\obj\Debug\Preset_Backup_Utility.Properties.Resources.resources
+C:\Users\Testing\source\repos\Preset Backup Utility\Preset Backup Utility\obj\Debug\Preset Backup Utility.csproj.GenerateResource.cache
+C:\Users\Testing\source\repos\Preset Backup Utility\Preset Backup Utility\obj\Debug\Preset Backup Utility.csproj.CoreCompileInputs.cache
+C:\Users\Testing\source\repos\Preset Backup Utility\Preset Backup Utility\obj\Debug\Preset Backup Utility.exe
+C:\Users\Testing\source\repos\Preset Backup Utility\Preset Backup Utility\obj\Debug\Preset Backup Utility.pdb
